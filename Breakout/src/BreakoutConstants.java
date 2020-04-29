@@ -49,7 +49,7 @@ public interface BreakoutConstants {
 	/**
 	 * Dimensions of the paddle
 	 */
-	public static final int PADDLE_WIDTH = 60;
+	public static final int PADDLE_WIDTH = 70;
 	public static final int PADDLE_HEIGHT = 10;
 
 	/** Offset of the paddle up from the bottom */

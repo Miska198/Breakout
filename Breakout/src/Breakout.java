@@ -31,6 +31,7 @@ public class Breakout extends GraphicsProgram implements BreakoutConstants {
 		lvl.setFont("Courier-20");
 		moveMouse = new GLabel("(Move your mouse first)");
 		moveMouse.setFont("Courier-20");
+		
 		firstLevel();
 	}
 
